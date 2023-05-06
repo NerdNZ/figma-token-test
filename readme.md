@@ -15,3 +15,11 @@ cd figma-token-test
 npm install
 
 npm run build
+
+### What's the input / output?
+
+The input comes directly from Figma. It lands in the "tokens.json" file in the root of the directory.
+
+We use config.json to create a style dictionary framework which defines the output
+
+The output is held within the build folder.
