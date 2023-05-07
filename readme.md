@@ -20,6 +20,8 @@ npm run build
 
 The input comes directly from Figma. It lands in the "tokens.json" file in the root of the directory.
 
+https://www.figma.com/file/o8H8bRC1bn0grapxBSHXzZ/V1?node-id=0%3A1&t=83OuPxx3xhJeIafz-1
+
 We use config.json to create a style dictionary framework which defines the output
 
 The output is held within the build folder.
